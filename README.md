@@ -19,5 +19,7 @@ This project was developed as part of my final year Computer Engineering curricu
 
 
 ## What I Learned
-- Practical implementation of ...
-- Debugging and deployment basics
+- How to design and implement a full-stack web application using PHP and the Laravel framework.
+- Practical experience in database design and management with MySQL, including relationships, queries, and data integrity.
+- Skills in debugging, testing, and deploying a web application in a structured environment.
+- Exposure to working with real-world requirements, translating academic specifications into functional software.
